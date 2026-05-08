@@ -1,0 +1,8 @@
+Edge,6
+Terminal,11
+Kernel,10
+Photoshop,10
+Zoom,9
+VSCode,5
+Word,5
+Spotify,7
